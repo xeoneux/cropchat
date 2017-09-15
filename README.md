@@ -1,6 +1,6 @@
 # cropchat
 
-> Cropchat - A cat messager app
+> cropchat - A cat messager app
 
 ## Build Setup
 
