@@ -1,7 +1,7 @@
 {
   "name": "cropchat",
   "version": "1.0.0",
-  "description": "Cropchat - A cat messager app",
+  "description": "cropchat - A cat messager app",
   "author": "Aayush Kapoor <xeoneux@icloud.com>",
   "private": true,
   "scripts": {
